@@ -1,26 +1,28 @@
-# mod4-project-backend
+# Iron Budget API
 
-# README
+> This is the back-end API for [Iron Budget](https://github.com/royFloresNyc/iron-budget-frontend), a personal financial accounting tool that allows users to keep track of their income and expenditures and analyze their spending habits.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Demo](https://www.loom.com/share/6497012699a84cc78e494c4c7acf5be5)
 
-Things you may want to cover:
+## Prerequisites
 
-- Ruby version
+- ruby >= 2.6.1
+- Rails >= 6.0.3
 
-- System dependencies
+## Install
 
-- Configuration
+```sh
+bundle install
+```
 
-- Database creation
+## Usage
 
-- Database initialization
+```sh
+rails s
+```
 
-- How to run the test suite
+## Authors
 
-- Services (job queues, cache servers, search engines, etc.)
+[Roy Flores](https://www.linkedin.com/in/royfloresnyc)
 
-- Deployment instructions
-
-- ...
+[Islom Mashanlo](https://www.linkedin.com/in/islom-mashanlo)
